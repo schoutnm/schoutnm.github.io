@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Mario's Page
 
-My Name is Mario
+** My Name is Mario and I'm starting to learn something about github **
 
 You can use the [editor on GitHub](https://github.com/schoutnm/schoutnm.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
