@@ -1,7 +1,7 @@
 @font-face {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto'f;
   src:
     url('https://schoutnm.github.io/fonts/Roboto-Regular.ttf') format('truetype');
   font-weight: 400;
-  font-style: Regular;
+  font-style: Normal;
 }
