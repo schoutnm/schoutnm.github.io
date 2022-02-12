@@ -5,10 +5,3 @@
   font-weight: 400;
   font-style: Normal;
 }
-@font-face {
-  font-family: 'Roboto';
-  src:
-    url('https://schoutnm.github.io/fonts/Roboto-Medium.ttf') format('truetype');
-  font-weight: 500;
-  font-style: Normal;
-}
